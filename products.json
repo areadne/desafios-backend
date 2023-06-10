@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "Manzana",
+		"description": "cajita de manzanas maduras",
+		"price": 5000,
+		"thumbnail": "https://www.foodpal-app.com/uploads/images/food/2/apfel-frisch-60390f5cf023d-800.webp",
+		"code": 4,
+		"stock": 25,
+		"category": "fruta",
+		"status": true
+	},
+	{
+		"id": 2,
+		"title": "Pera",
+		"description": "cajita de peras verdes",
+		"price": 3000,
+		"thumbnail": "https://www.tododisca.com/wp-content/uploads/2022/05/pera-fruta-piel-cascara-beneficios-salud-dieta-fibra-digestion-microbiota.jpg",
+		"code": 3,
+		"stock": 35,
+		"category": "fruta",
+		"status": true
+	},
+	{
+		"id": 3,
+		"title": "produycto",
+		"description": "prueba",
+		"price": "777",
+		"thumbnail": "https://www.foodpal-app.com/uploads/images/food/2/apfel-frisch-60390f5cf023d-800.webp",
+		"code": "78",
+		"stock": "7",
+		"category": "fruta",
+		"status": "true"
+	}
+]
